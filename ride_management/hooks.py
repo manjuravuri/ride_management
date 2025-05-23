@@ -242,7 +242,7 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 fixtures = [
-    {"dt": "Customer", "filters": [["name", "in", ["Manju Narayana", "Ravindra"]]]},
+    {"dt": "Customer", "filters": [["name", "in", ["john Doe-john Doe", "Alice Smith"]]]},
     {"dt": "Item", "filters": [["item_code", "in", ["Wi-Fi Access", "Travel Insurance", "Tourist Guides"]]]},
     "Vehicle Ride",
     "Ride Booking",
