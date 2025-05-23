@@ -1,0 +1,35 @@
+[
+ {
+  "booking_date": "2025-05-21",
+  "customer": "john Doe",
+  "customer_name": "john Doe",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 50.0,
+  "make": "Maruti Suzuki",
+  "modified": "2025-05-22 13:03:06.128952",
+  "name": "f7tk3d8ndh",
+  "phone_number": "9876543210",
+  "price_per_km": 8.0,
+  "return_date": "2025-05-31",
+  "services": [
+   {
+    "amount": 50.0,
+    "parent": "f7tk3d8ndh",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Wi-Fi Access"
+   },
+   {
+    "amount": 100.0,
+    "parent": "f7tk3d8ndh",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Travel Insurance"
+   }
+  ],
+  "total_amount": 0.0,
+  "type": "Hatchback",
+  "vehicle": "d1pg28ka6c"
+ }
+]

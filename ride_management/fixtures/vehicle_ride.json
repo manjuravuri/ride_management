@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": null,
+  "make": "Tesla",
+  "modified": "2025-05-22 12:56:12.656912",
+  "name": "buebu1h0uh",
+  "price_per_km": 15.0,
+  "type": "Electric Sedan"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": null,
+  "make": "Maruti Suzuki",
+  "modified": "2025-05-22 12:58:05.791699",
+  "name": "d1pg28ka6c",
+  "price_per_km": 8.0,
+  "type": "Hatchback"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": null,
+  "make": "Toyota",
+  "modified": "2025-05-22 12:58:37.157764",
+  "name": "dbjeeatf6m",
+  "price_per_km": 12.5,
+  "type": "SUV"
+ }
+]

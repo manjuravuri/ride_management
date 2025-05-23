@@ -241,4 +241,10 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
+fixtures = [
+    {"dt": "Customer", "filters": [["name", "in", ["Manju Narayana", "Ravindra"]]]},
+    {"dt": "Item", "filters": [["item_code", "in", ["Wi-Fi Access", "Travel Insurance", "Tourist Guides"]]]},
+    "Vehicle Ride",
+    "Ride Booking",
+]
 
